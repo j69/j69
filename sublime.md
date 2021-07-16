@@ -55,3 +55,10 @@ Preferences --> Package Control --> Install or CTRL + SHIFT + P`
 * Select a word and press Cmd+D to select the next same word. Then press Cmd+D again to select the next same word again, and so on.
 * Press Cmd+Left Button to create a cursor for editing everywhere you click.
 * Block select Option+Left Button is used to select a block of text. It’s perfect for removing blank space when formatting a CSV file.
+
+
+
+
+
+
+
