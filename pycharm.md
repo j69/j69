@@ -24,7 +24,7 @@
 * size 		- 18
 
 ### color scheme
-[Material One Dark modified](Material One Dark69.icls)
+[My Material One Dark](Material One Dark69.icls)
 
 ### inspections
 * turn off HTML, JSON
