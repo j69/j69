@@ -49,37 +49,35 @@ defaults write com.apple.finder QLEnableTextSelection -bool TRUE && killall Find
 ## tune mouse speed
 defaults write -g com.apple.mouse.scaling 12.0
 
-# Automatically quit printer app once the print jobs complete
+## Automatically quit printer app once the print jobs complete
 defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool true
 
-# Save to disk, rather than iCloud, by default? (y/n)"
+## Save to disk, rather than iCloud, by default? (y/n)"
 defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
 
-# Disable hibernation (speeds up entering sleep mode)
+## Disable hibernation (speeds up entering sleep mode)
 sudo pmset -a hibernatemode 0
 sudo rm /var/vm/sleepimage
 sudo mkdir /var/vm/sleepimage
 
-
-# Prevent Time Machine from prompting to use new hard drives as backup volume?
+## Prevent Time Machine from prompting to use new hard drives as backup volume?
 defaults write com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
 
-# Disable local Time Machine backups? (This can take up a ton of SSD space on <128GB SSDs)
+## Disable local Time Machine backups? (This can take up a ton of SSD space on <128GB SSDs)
 hash tmutil &> /dev/null && sudo tmutil disable local
 
-
-# echo "Enabling UTF-8 ONLY in Terminal.app and setting the Pro theme by default
+## echo "Enabling UTF-8 ONLY in Terminal.app and setting the Pro theme by default
 defaults write com.apple.terminal StringEncodings -array 4
 defaults write com.apple.Terminal "Default Window Settings" -string "Pro"
 defaults write com.apple.Terminal "Startup Window Settings" -string "Pro"
 
-# Show hidden files in Finder by default? (y/n)"
+## Show hidden files in Finder by default? (y/n)"
 defaults write com.apple.Finder AppleShowAllFiles -bool true
 
-# Show dotfiles in Finder by default? (y/n)
+## Show dotfiles in Finder by default? (y/n)
 defaults write com.apple.finder AppleShowAllFiles true
 
-# Show all filename extensions in Finder by default? (y/n)
+## Show all filename extensions in Finder by default? (y/n)
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 
 # Terminal setup
@@ -100,8 +98,6 @@ https://brew.sh/
 You could also assign custom keys in Prefs -> Keys
 shift+left - move end of selection back
 shift + right - move end of selection forward
-
-
 
 ## Install other apps
 brew cask install
@@ -132,15 +128,11 @@ brew cask install
 + [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 + chrome://flags/ - `Turn off caching of streaming media to disk`
 
-
-# Privacy: Don't send search queries to Apple"
+## Privacy: Don't send search queries to Apple"
 defaults write com.apple.Safari UniversalSearchEnabled -bool false
 defaults write com.apple.Safari SuppressSearchSuggestions -bool true
 
-# Disabling Safari's thumbnail cache for History and Top Sites
-defaults write com.apple.Safari DebugSnapshotsUpdatePolicy -int 2
-
-# Disabling the annoying backswipe in Chrome
+## Disabling the annoying backswipe in Chrome
 defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool false
 defaults write com.google.Chrome.canary AppleEnableSwipeNavigateWithScrolls -bool false
 
