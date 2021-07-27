@@ -45,19 +45,6 @@ Preferences --> Package Control --> Install or CTRL + SHIFT + P`
 }
 ```
 
-### Keyboard Shortcuts
-* Goto Anything Cmd+P is used for quickly finding and opening files. Just type in a part of a path and filename within a project and you can easily open that file. This is great for quickly opening files in large Django projects.
-* Goto Line Number Ctrl+G takes you to a specific line number in an active file.
-* Goto Symbol Cmd+R lists all functions and classes within a file to make them easier to find. Simply start typing the one you want.
-* Go to beginning of line Cmd+Left and Go to end of line Cmd+Right help you navigate within lines.
-* Delete current line Ctrl+Shift+K deletes the current line.
-* Multi-Edit is by far my favorite shortcut:
-* Select a word and press Cmd+D to select the next same word. Then press Cmd+D again to select the next same word again, and so on.
-* Press Cmd+Left Button to create a cursor for editing everywhere you click.
-* Block select Option+Left Button is used to select a block of text. It’s perfect for removing blank space when formatting a CSV file.
-
-
-
 
 
 
