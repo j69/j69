@@ -53,18 +53,8 @@ defaults write com.apple.finder AppleShowAllFiles true
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 
 # Terminal setup
-https://brew.sh/
-## iterm2
+* //brew.sh/
 * brew cask install iterm2
-* `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-* brew install zsh-syntax-highlighting
-
-## Install Powerlevel10k for your plugin manager for Oh My Zsh
-`git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k`
-
-* nano ~/.zshrc
-* `ZSH_THEME="powerlevel10k/powerlevel10k"`
-* p10k configure
 
 ## Install other apps
 brew cask install
