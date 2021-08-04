@@ -9,19 +9,9 @@ Preferences --> Package Control --> Install or CTRL + SHIFT + P`
  "swallow_startup_errors" : true
 
 * A File Icon
-* All AutoComplete
 * Bracket Highlighter
-* Dracula color theme
-* GitGutterpy
-* Markdown Preview
+* Dracula color scheme
 * PlainTask
-* Requirements Txt
-* SideBar Enhancement
-* SublimeLinter
-* SublimeLinter-flake8
-* SublimeLinter-pylint
-* Terminal
-* ZenTabs
 
 ```javascript
 {
