@@ -41,6 +41,9 @@ Preferences --> Package Control --> Install or CTRL + SHIFT + P`
     "trim_trailing_white_space_on_save": "all",
     "wrap_width": 100,
     "show_sidebar_button": false,
+    "font_size": 16,
+    "word_wrap": true,
+    "wrap_width_style": "min",
 }
 ```
 
