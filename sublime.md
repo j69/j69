@@ -11,7 +11,6 @@ Preferences --> Package Control --> Install or CTRL + SHIFT + P`
 * A File Icon
 * All AutoComplete
 * Bracket Highlighter
-* Djaneiro
 * Dracula color theme
 * GitGutterpy
 * Markdown Preview
