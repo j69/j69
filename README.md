@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# starburst
-Attention-grabbing panel
-
 ![me](me.png)
 
 * [RegExr](//regexr.com)
