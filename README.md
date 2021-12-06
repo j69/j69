@@ -31,6 +31,8 @@ Your code is only as good as its weakest part. This is my main principle and mot
 
 I have always been interested in programming and computers which was why I chose to follow this career path. As a senior programmer I was responsible for planning and implementing web applications and software development. Moreover, I was writing technical & project documentation, designing and optimizing databases and source code.
 
+![600lap](600lap.jpeg)
+
 # Cool links
 
 * [cool desktop saver](//github.com/pedrommcarrasco/Brooklyn/releases/download/1.0.0/Brooklyn.saver.zip)
