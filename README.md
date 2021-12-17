@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![me](me.png)
+![me](me.jpg)
 
 * [RegExr](//regexr.com)
 * [All Algorithms implemented in Python](//github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![GRiD Compass 1101](https://user-images.githubusercontent.com/1506433/125909736-ed71c9d7-0fe3-463b-af5a-2c9a86102ba8.png)
 
-![me](me.jpg)
+
 
 ![600lap](600lap.jpeg)
 
