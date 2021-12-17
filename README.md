@@ -24,12 +24,7 @@ Here are some ideas to get you started:
 
 ![GRiD Compass 1101](https://user-images.githubusercontent.com/1506433/125909736-ed71c9d7-0fe3-463b-af5a-2c9a86102ba8.png)
 
-##  MISSION STATEMENT
-Your code is only as good as its weakest part. This is my main principle and motto. I care primarily on the quality of the code. I would like to work with professionals as to exchange experience and learn all the time.
-
 ![me](me.jpg)
-
-I have always been interested in programming and computers which was why I chose to follow this career path. As a senior programmer I was responsible for planning and implementing web applications and software development. Moreover, I was writing technical & project documentation, designing and optimizing databases and source code.
 
 ![600lap](600lap.jpeg)
 
