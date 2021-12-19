@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 * [Python Design patterns](//github.com/faif/python-patterns)
 * [The Hitchhikers Guide to Python!](//docs.python-guide.org)
 
-![600lap](600lap.jpeg)
-
 # Cool links
 
 * [cool desktop saver](//github.com/pedrommcarrasco/Brooklyn/releases/download/1.0.0/Brooklyn.saver.zip)
@@ -40,4 +38,4 @@ Here are some ideas to get you started:
 * [Windows 93](//www.windows93.net)
 * [Open Source Game Clones](//osgameclones.com)
 
-![GRiD Compass 1101](https://user-images.githubusercontent.com/1506433/125909736-ed71c9d7-0fe3-463b-af5a-2c9a86102ba8.png)
+![600lap](600lap.jpeg)
