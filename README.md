@@ -9,7 +9,6 @@
 
 # Cool links
 
-* [cool desktop saver](//github.com/pedrommcarrasco/Brooklyn/releases/download/1.0.0/Brooklyn.saver.zip)
 * [Wolfenstein 3D](//wolf3d.atw.hu/)
 * [Quake3 JS](//quakejs.com/)
 * [Dangerous Dave](//agafnik.com/testchambers/webdave/)
