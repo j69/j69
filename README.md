@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![me](me.jpg)
+![600lap](600lap.jpeg)
 
 # Cool links
 
@@ -16,5 +16,3 @@
 * [GIF DANCE PARTY](//gifdanceparty.giphy.com)
 * [Windows 93](//www.windows93.net)
 * [Open Source Game Clones](//osgameclones.com)
-
-![600lap](600lap.jpeg)
