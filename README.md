@@ -2,11 +2,6 @@
 
 ![me](me.jpg)
 
-* [RegExr](//regexr.com)
-* [All Algorithms implemented in Python](//github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
-* [Python Design patterns](//github.com/faif/python-patterns)
-* [The Hitchhikers Guide to Python!](//docs.python-guide.org)
-
 # Cool links
 
 * [Wolfenstein 3D](//wolf3d.atw.hu/)
