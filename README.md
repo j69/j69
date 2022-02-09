@@ -6,9 +6,11 @@ This is my place where i put some stuff from my old website
 
 # Cool links
 
+* [Heroes3](//homm.lekzd.ru/)
 * [Prince of Persia](//princejs.com/)
 * [Wolfenstein 3D](//wolf3d.atw.hu/)
 * [Quake3 JS](//quakejs.com/)
+* [Quake2 JS](//quake2playn.appspot.com/)
 * [Dangerous Dave](//agafnik.com/testchambers/webdave/)
 * [Diablo](//diablo.rivsoft.net)
 * [Highway Encounter (ZX)](//torinak.com/qaop#!encounter)
