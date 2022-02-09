@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+This is my place where i put some stuff from my old website
+
 ![600lap](600lap.jpeg)
 
 # Cool links
 
+* [Prince of Persia](//princejs.com/)
 * [Wolfenstein 3D](//wolf3d.atw.hu/)
 * [Quake3 JS](//quakejs.com/)
 * [Dangerous Dave](//agafnik.com/testchambers/webdave/)
