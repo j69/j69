@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[The Programmer's Oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
+
 This is my place where i put some stuff from my old website
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
