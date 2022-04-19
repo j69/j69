@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[The Programmer's Oath](//blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
-[Conventional Commits](//www.conventionalcommits.org)
+* [The Programmer's Oath](//blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
+* [Conventional Commits](//www.conventionalcommits.org)
 
 This is my place where i put some stuff from my old website
 
