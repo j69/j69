@@ -17,6 +17,7 @@ This is my place where i put some stuff from my old website
 # Cool links
 
 * [SpaceCadetPinball](//alula.github.io/SpaceCadetPinball/)
+* [Monkey Island - Insult Swordfighting Game](//www.int33h.com/test/mi/)
 * [Heroes3](//homm.lekzd.ru/)
 * [Prince of Persia](//princejs.com/)
 * [Wolfenstein 3D](//wolf3d.atw.hu/)
