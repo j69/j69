@@ -3,7 +3,9 @@
 * [The Programmer's Oath](//blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 * [Conventional Commits](//www.conventionalcommits.org)
 
-some stuff from my old website ![me](me.jpg)
+![me](me.jpg)
+some stuff from my old website
+
 
 * [RegExr](//regexr.com)
 * [All Algorithms implemented in Python](//github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
