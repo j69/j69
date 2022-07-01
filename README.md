@@ -2,6 +2,9 @@
 
 * [The Programmer's Oath](//blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 * [Conventional Commits](//www.conventionalcommits.org)
+* [My productivity app is a never-ending .txt file](//jeffhuang.com/productivity_text_file/)
+* [The Grug Brained Developer](//grugbrain.dev/)
+
 
 I saw a list of "programming pearls" from the September 1985 issue of "Communications of the ACM". I picked a few out and added some that weren't on the list and ever since, I've always kept a printed version near where I work. Over the years I've added some and deleted some. Here is my current list:
 
