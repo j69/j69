@@ -48,4 +48,5 @@ I saw a list of "programming pearls" from the September 1985 issue of "Communica
 * [CloudsPiano](//labs.plan8.se/cloudspiano/)
 * [GIF DANCE PARTY](//gifdanceparty.giphy.com)
 * [Windows 93](//www.windows93.net)
+* [Windows 98 + many things inside](//emupedia.net/beta/emuos/)
 * [Open Source Game Clones](//osgameclones.com)
