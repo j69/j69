@@ -1,4 +1,4 @@
-### Hi there 👋 Here is some stuff from my old website
+### Hi, folks 👋 I'm a software engineer and this is my digital garden 🌱 from my old website
 
 * [The Programmer's Oath](//blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 * [Conventional Commits](//www.conventionalcommits.org)
