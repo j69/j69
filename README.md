@@ -50,3 +50,5 @@ I saw a list of "programming pearls" from the September 1985 issue of "Communica
 * [Windows 93](//www.windows93.net)
 * [Windows 98 + many things inside](//emupedia.net/beta/emuos/)
 * [Open Source Game Clones](//osgameclones.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j69)](https://github.com/anuraghazra/github-readme-stats)
