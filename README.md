@@ -30,7 +30,7 @@ I saw a list of "programming pearls" from the September 1985 issue of "Communica
 
 ![600lap](600lap.jpeg)
 
-# Cool links
+# Cool stuff
 
 * [SpaceCadetPinball](//alula.github.io/SpaceCadetPinball/)
 * [Monkey Island - Insult Swordfighting Game](//www.int33h.com/test/mi/)
@@ -47,7 +47,6 @@ I saw a list of "programming pearls" from the September 1985 issue of "Communica
 * [HypnoticOwl](//hypnoticowl.com/games/)
 * [CloudsPiano](//labs.plan8.se/cloudspiano/)
 * [GIF DANCE PARTY](//gifdanceparty.giphy.com)
-* [Windows 93](//www.windows93.net)
 * [Windows 98 + many things inside](//emupedia.net/beta/emuos/)
 * [Open Source Game Clones](//osgameclones.com)
 
