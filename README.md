@@ -13,8 +13,6 @@ I saw a list of "programming pearls" from the September 1985 issue of "Communica
 > 
 > Compilers Never Lie - Comments can.
 > 
-> Writing COMMENTS takes time that you could spend writing CODE.
-> 
 > Get your data structures correct first, and the rest of the program will write itself.
 > 
 > Testing can show the presence of bugs, but not their absence.
