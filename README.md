@@ -1,10 +1,8 @@
-### Hi, folks 👋 I'm a software engineer and this is my digital garden 🌱
+## Hi, folks 👋 I'm a software engineer and this is my digital garden 🌱![me](me.jpg) 
 
-* [The Programmer's Oath](//blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
+### I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
 * [Conventional Commits](//www.conventionalcommits.org)
 * [My productivity app is a never-ending .txt file](//jeffhuang.com/productivity_text_file/)
-
-![me](me.jpg) 
 
 * [RegExr](//regexr.com)
 * [All Algorithms implemented in Python](//github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
