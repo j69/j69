@@ -3,8 +3,6 @@
 * [The Programmer's Oath](//blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 * [Conventional Commits](//www.conventionalcommits.org)
 * [My productivity app is a never-ending .txt file](//jeffhuang.com/productivity_text_file/)
-* [The Grug Brained Developer](//grugbrain.dev/)
-* [Postgres Cheatsheet](//postgrescheatsheet.com/)
 
 ![me](me.jpg) 
 
