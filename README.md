@@ -1,9 +1,7 @@
-## Hi, folks 👋 I'm a software engineer and this is my digital garden 🌱![me](me.jpg) 
+## Hi, folks 👋 I'm a software engineer and this is my digital garden 🌱
 
-### I will fearlessly and relentlessly improve my creations at every opportunity. I will never degrade them.
 * [Conventional Commits](//www.conventionalcommits.org)
 * [My productivity app is a never-ending .txt file](//jeffhuang.com/productivity_text_file/)
-
 * [RegExr](//regexr.com)
 * [All Algorithms implemented in Python](//github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
 * [Python Design patterns](//github.com/faif/python-patterns)
@@ -28,7 +26,7 @@
 * [HypnoticOwl](//hypnoticowl.com/games/)
 * [CloudsPiano](//labs.plan8.se/cloudspiano/)
 * [GIF DANCE PARTY](//gifdanceparty.giphy.com)
-* [Windows 98 + many things inside](//emupedia.net/beta/emuos/)
+* [Zelda](//emupedia.net/emupedia-game-zelda)
 * [Open Source Game Clones](//osgameclones.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j69)](https://github.com/anuraghazra/github-readme-stats)
