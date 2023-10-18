@@ -1,4 +1,7 @@
 ## Hi, folks 👋 I'm a software engineer and this is my digital garden 🌱
+![600lap](600lap.jpeg)
+
+# Interesing
 
 * [Conventional Commits](//www.conventionalcommits.org)
 * [My productivity app is a never-ending .txt file](//jeffhuang.com/productivity_text_file/)
@@ -6,8 +9,6 @@
 * [All Algorithms implemented in Python](//github.com/TheAlgorithms/Python/blob/master/DIRECTORY.md)
 * [Python Design patterns](//github.com/faif/python-patterns)
 * [The Hitchhikers Guide to Python!](//docs.python-guide.org)
-
-![600lap](600lap.jpeg)
 
 # Cool stuff
 
