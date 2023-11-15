@@ -2,8 +2,10 @@
 
 ![600lap](600lap.jpeg)
 
-# Interesing
-
+* ### 📝 Most interesting:
+* [Manage data streams with Reactor Project](https://fedor-malyshkin.medium.com/manage-data-streams-with-reactor-project-da56922a8c4c)
+* [GitHub Actions to build your Java/Scala application, test and deploy it to Kubernetes cluster](https://levelup.gitconnected.com/github-actions-to-build-your-java-scala-application-test-and-deploy-it-to-kubernetes-cluster-484779dfc200) 
+* [Conway’s Game of Life streaming with Akka Streams](https://fedor-malyshkin.medium.com/conways-game-of-life-streaming-with-akka-streams-abddb9773d48)
 * [Conventional Commits](//www.conventionalcommits.org)
 * [My productivity app is a never-ending .txt file](//jeffhuang.com/productivity_text_file/)
 * [RegExr](//regexr.com)
@@ -31,4 +33,6 @@
 * [Zelda](//emupedia.net/emupedia-game-zelda)
 * [Open Source Game Clones](//osgameclones.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j69)](https://github.com/anuraghazra/github-readme-stats)
+### :chart_with_upwards_trend: Some stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=j69&show_icons=true&count_private=true&hide=contribs)](https://github.com/j69)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j69&hide=javascript,html,CSS&layout=compact&exclude_repo=hflabs_am,magnetosoft_big_archive,magnetosoft_magnet)](https://github.com/j69)
