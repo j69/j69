@@ -16,22 +16,14 @@
 * [The Hitchhikers Guide to Python!](//docs.python-guide.org)
 
 ### 🚀 Fun stuff
-
-* [SpaceCadetPinball](//alula.github.io/SpaceCadetPinball/)
-* [Monkey Island - Insult Swordfighting Game](//www.int33h.com/test/mi/)
-* [Heroes3](//homm.lekzd.ru/)
 * [Prince of Persia](//princejs.com/)
 * [Wolfenstein 3D](//wolf3d.atw.hu/)
-* [Quake3 JS](//quakejs.com/)
-* [Quake2 JS](//quake2playn.appspot.com/)
 * [Dangerous Dave](//agafnik.com/testchambers/webdave/)
-* [Diablo](//diablo.rivsoft.net)
+* [Diablo](//d07riv.github.io/diabloweb/)
 * [Highway Encounter (ZX)](//torinak.com/qaop#!encounter)
 * [ZX Spectrum games](//torinak.com/qaop/games)
 * [Robo!](//dizaina.net/z/robbo/?nosound)
 * [HypnoticOwl](//hypnoticowl.com/games/)
-* [CloudsPiano](//labs.plan8.se/cloudspiano/)
-* [GIF DANCE PARTY](//gifdanceparty.giphy.com)
 * [Zelda](//emupedia.net/emupedia-game-zelda)
 * [Open Source Game Clones](//osgameclones.com)
 
