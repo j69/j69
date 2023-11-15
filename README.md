@@ -1,6 +1,8 @@
 ## Hi, folks 👋 I'm a software engineer and this is my digital garden 🌱
 
-![600lap](600lap.jpeg)
+![300lap](300lap.jpeg)
+![bm](bm.png)
+![400](400ngvikings2020.jpg)
 
 * ### 📝 Most interesting:
 * [Manage data streams with Reactor Project](https://fedor-malyshkin.medium.com/manage-data-streams-with-reactor-project-da56922a8c4c)
