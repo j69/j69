@@ -13,7 +13,7 @@
 * [Python Design patterns](//github.com/faif/python-patterns)
 * [The Hitchhikers Guide to Python!](//docs.python-guide.org)
 
-# Cool stuff
+### 🚀 Fun stuff
 
 * [SpaceCadetPinball](//alula.github.io/SpaceCadetPinball/)
 * [Monkey Island - Insult Swordfighting Game](//www.int33h.com/test/mi/)
