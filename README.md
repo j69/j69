@@ -2,7 +2,7 @@
 
 ![300lap](300lap.jpeg)
 ![bm](bm.png)
-![400](400ngvikings2020.jpg)
+![235](235ngvikings2020.jpg)
 
 * ### 📝 Most interesting:
 * [Manage data streams with Reactor Project](https://fedor-malyshkin.medium.com/manage-data-streams-with-reactor-project-da56922a8c4c)
