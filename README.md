@@ -18,7 +18,7 @@
 * [The Hitchhikers Guide to Python!](//docs.python-guide.org)
 
 ### 🚀
-* [Wolfenstein 3D](//wolf3d.atw.hu/)
+* [M.A.C.E. Project - M*c Application Compatibility Environment](//https://mace.software/)
 * [Dangerous Dave](//agafnik.com/testchambers/webdave/)
 * [Highway Encounter (ZX)](//torinak.com/qaop#!encounter)
 * [HypnoticOwl](//hypnoticowl.com/games/)
