@@ -6,7 +6,7 @@
 ![s2](s2.jpg)
 ![s1](s1.jpg)
 
-* ### 📝 Most interesting:
+* ### 📝
 * [Manage data streams with Reactor Project](https://fedor-malyshkin.medium.com/manage-data-streams-with-reactor-project-da56922a8c4c)
 * [GitHub Actions to build your Java/Scala application, test and deploy it to Kubernetes cluster](https://levelup.gitconnected.com/github-actions-to-build-your-java-scala-application-test-and-deploy-it-to-kubernetes-cluster-484779dfc200) 
 * [Conway’s Game of Life streaming with Akka Streams](https://fedor-malyshkin.medium.com/conways-game-of-life-streaming-with-akka-streams-abddb9773d48)
@@ -17,17 +17,12 @@
 * [Python Design patterns](//github.com/faif/python-patterns)
 * [The Hitchhikers Guide to Python!](//docs.python-guide.org)
 
-### 🚀 Fun stuff
-* [Prince of Persia](//princejs.com/)
+### 🚀
 * [Wolfenstein 3D](//wolf3d.atw.hu/)
 * [Dangerous Dave](//agafnik.com/testchambers/webdave/)
-* [Diablo](//d07riv.github.io/diabloweb/)
 * [Highway Encounter (ZX)](//torinak.com/qaop#!encounter)
-* [ZX Spectrum games](//torinak.com/qaop/games)
-* [Robo!](//dizaina.net/z/robbo/?nosound)
 * [HypnoticOwl](//hypnoticowl.com/games/)
 * [Zelda](//emupedia.net/emupedia-game-zelda)
-* [Open Source Game Clones](//osgameclones.com)
 
 ### :chart_with_upwards_trend: Some stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=j69&show_icons=true&count_private=true&hide=contribs)](https://github.com/j69)
