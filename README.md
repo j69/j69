@@ -23,7 +23,3 @@
 * [Highway Encounter (ZX)](//torinak.com/qaop#!encounter)
 * [HypnoticOwl](//hypnoticowl.com/games/)
 * [Zelda](//emupedia.net/emupedia-game-zelda)
-
-### :chart_with_upwards_trend: Some stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=j69&show_icons=true&count_private=true&hide=contribs)](https://github.com/j69)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j69&hide=javascript,html,CSS&layout=compact&exclude_repo=hflabs_am,magnetosoft_big_archive,magnetosoft_magnet)](https://github.com/j69)
