@@ -1,6 +1,9 @@
 ## Hi, folks 👋 I'm a software engineer and this is my digital garden 🌱
 
 ![300lap](300lap.jpeg)
+![vegan](vegan.jpg)
+![mac](macs.jpg)
+
 
 * ### 📝
 * [Manage data streams with Reactor Project](https://fedor-malyshkin.medium.com/manage-data-streams-with-reactor-project-da56922a8c4c)
