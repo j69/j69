@@ -2,7 +2,6 @@
 
 ![300lap](300lap.jpeg)
 ![vegan](vegan.jpg)
-![mac](macs.jpg)
 
 
 * ### 📝
