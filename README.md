@@ -1,4 +1,4 @@
-## Hi, folks 👋 I'm a software engineer and this is my digital garden 🌱
+## Hi, folks 👋 I'm a software hacker and this is my digital garden 🌱
 
 ![300lap](600lap.jpeg)
 
